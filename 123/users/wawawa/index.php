@@ -1,0 +1,37 @@
+<?php
+header("Content-TYpe:application/json");
+?>
+{
+  "login": "wawawa123",
+  "id": 123456,
+  "node_id": "MDQ6VXNlc",
+  "avatar_url": "https://avatars.githubusercontent.com/u/123456?v=4",
+  "gravatar_id": "",
+  "url": "http://207.148.74.41/api/v3/users/wawawa123",
+  "html_url": "http://207.148.74.41/api/v3/wawawa123",
+  "followers_url": "http://207.148.74.41/api/v3/users/wawawa123/followers",
+  "following_url": "http://207.148.74.41/api/v3/users/wawawa123/following{/other_user}",
+  "gists_url": "http://207.148.74.41/api/v3/users/wawawa123/gists{/gist_id}",
+  "starred_url": "http://207.148.74.41/api/v3/users/wawawa123/starred{/owner}{/repo}",
+  "subscriptions_url": "http://207.148.74.41/api/v3/users/wawawa123/subscriptions",
+  "organizations_url": "http://207.148.74.41/api/v3/users/wawawa123/orgs",
+  "repos_url": "http://207.148.74.41/api/v3/users/wawawa123/repos",
+  "events_url": "http://207.148.74.41/api/v3/users/wawawa123/events{/privacy}",
+  "received_events_url": "http://207.148.74.41/api/v3/users/wawawa123/received_events",
+  "type": "User",
+  "site_admin": false,
+  "name": "wawawa123",
+  "company": null,
+  "blog": "",
+  "location": "",
+  "email": "abody@foxmail.com",
+  "hireable": null,
+  "bio": "a",
+  "twitter_username": null,
+  "public_repos": 102,
+  "public_gists": 0,
+  "followers": 87,
+  "following": 82,
+  "created_at": "2018-09-14T10:13:09Z",
+  "updated_at": "2021-08-27T12:41:05Z"
+}
